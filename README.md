@@ -13,6 +13,21 @@
 
 ---
 
+<h2 align="center">🚀 About Me</h2>
+
+<div align="center">
+  <img align="right" src="https://media1.tenor.com/m/K2UGdwSsu7IAAAAC/developer.gif" height="160" alt="developer gif" style="margin-left: 10px;" />
+  
+  <p align="left" style="font-size: 18px; line-height: 1.6;">
+    👋 Hey there! I'm <b>Mohamed Elsha7at</b> — a passionate <b>Full Stack Developer</b> who loves building modern, responsive, and high-performance web applications.<br><br>
+    💡 Always eager to learn new technologies and improve my skills.<br>
+    🔥 I enjoy solving complex problems and turning creative ideas into code.<br>
+    🌱 Currently exploring <b>Next.js</b> + <b>.NET</b> for full-stack solutions.<br><br>
+    💬 Feel free to reach out — I’m always open to collaboration and new opportunities! 😄
+  </p>
+</div>
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madyelshshaht&layout=compact&theme=dracula&langs_count=8" height="160px" style="width:100%; height:160px;" />
 </div>
