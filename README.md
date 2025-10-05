@@ -1,7 +1,7 @@
 <div align="center">
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00C9FF&section=header"/>
 </div>
-<div align="center" style="font-family: 'Fira Code', monospace; font-weight: 700; font-size: 28px; border: none; text-decoration: none; margin-bottom: 0;">
+<div align="center" style="font-family: 'Fira Code', monospace; font-weight: 700; font-size: 38px;">
   Hi 👋 I'm Mohamed Elsha7at
 </div>
 <div align="center" style="border: none; text-decoration: none; margin-bottom: 0;">
