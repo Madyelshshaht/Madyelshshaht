@@ -11,17 +11,24 @@
   />
 </div>
 
+###
+
+<img align="right" height="150" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif" alt="coding gif" />
+
+###
+
 <div align="center">
-  <img align="right" src="https://media1.tenor.com/m/K2UGdwSsu7IAAAAC/developer.gif" height="160" alt="developer gif" style="margin-left: 10px;" />
+  <img align="right" height="150" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif" alt="coding gif" style="margin-left: 12px;" />
   
-  <p align="left" style="font-size: 18px; line-height: 1.6;">
-    👋 Hey there! I'm <b>Mohamed Elsha7at</b> — a passionate <b>Full Stack Developer</b> who loves building modern, responsive, and high-performance web applications.<br><br>
-    💡 Always eager to learn new technologies and improve my skills.<br>
-    🔥 I enjoy solving complex problems and turning creative ideas into code.<br>
-    🌱 Currently exploring <b>Next.js</b> + <b>.NET</b> for full-stack solutions.<br><br>
-    💬 Feel free to reach out — I’m always open to collaboration and new opportunities! 😄
+  <p align="left" style="font-size: 18px; line-height: 1.6; max-width:720px;">
+    💡 <b>Always learning:</b> I keep improving my skills with modern stacks and best practices.<br>
+    ✅ <b>Clean code & architecture:</b> I write readable, maintainable code and follow solid design principles.<br>
+    ⚙️ <b>Logical APIs:</b> I design clear, well-documented, and testable REST/GraphQL APIs that solve real problems.<br>
+    🔧 <b>Practical focus:</b> I build robust full-stack apps with emphasis on performance, reliability, and developer experience.<br>
+    📫 <b>Let’s collaborate:</b> Open to team projects, freelance work, and learning opportunities.
   </p>
 </div>
+
 
 
 <div align="center">
@@ -30,11 +37,7 @@
 
 
 
-###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif" alt="coding gif" />
-
-###
 
 
 ### 🛠️ Tech Stack
