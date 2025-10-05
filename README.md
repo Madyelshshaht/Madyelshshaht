@@ -77,8 +77,8 @@
   <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
 </div>
 <br>
----
 
+---
 ### 🌐 Connect with Me
 
 <div align="left">
@@ -89,8 +89,8 @@
   <a href="https://www.linkedin.com/in/mohamed-elshahawi-2a736134b" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo" /></a>
 </div>
 
-<br><br><br>
-
+<br>
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madyelshshaht/Madyelshshaht/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madyelshshaht/Madyelshshaht/output/pacman-contribution-graph.svg">
