@@ -10,7 +10,8 @@
     alt="Typing SVG" 
   />
 </div>
-----
+---
+
 <br><br>
 
 <img align="right" height="150" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif" alt="coding gif" />
@@ -26,7 +27,6 @@
 </div>
 
 <br><br>
-
 ---
 
 <div align="center">
