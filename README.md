@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋 I'm Mohamed Elsha7at</h1>
 </div>
 
-<div align="center" style="font-family: 'Fira Code', monospace; font-weight: 700; font-size: 32px; border: none; text-decoration: none; margin-bottom: 0;">
+<div align="center" style="font-size: 2em; font-weight: bold; margin: 0; padding: 0; line-height: 1.2;">
   Hi 👋 I'm Mohamed Elsha7at
 </div>
 
