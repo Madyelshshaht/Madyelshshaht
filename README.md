@@ -10,7 +10,6 @@
     alt="Typing SVG" 
   />
 </div>
----
 
 <br><br>
 
@@ -26,7 +25,7 @@
   </p>
 </div>
 
-<br><br>
+<br>
 ---
 
 <div align="center">
@@ -34,7 +33,7 @@
 </div>
 
 <br><br><br>
-
+---
 ### 🛠️ Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
@@ -79,6 +78,7 @@
 </div>
 
 <br><br><br>
+---
 
 ### 🌐 Connect with Me
 
