@@ -15,21 +15,20 @@
 
 <img align="right" height="150" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif" alt="coding gif" />
 
-<div align="center">
-  <p align="left" style="font-size: 18px; line-height: 1.8; max-width:720px;">
+<div align="left">
+  <p style="font-size: 18px; line-height: 1.8; max-width:720px;">
     💡 <b>Always learning:</b> I keep improving my skills with modern stacks and best practices.<br><br>
     ✅ <b>Clean code & architecture:</b> I write readable, maintainable code and follow solid design principles.<br><br>
     ⚙️ <b>Logical APIs:</b> I design clear, well-documented, and testable REST/GraphQL APIs that solve real problems.<br><br>
     🔧 <b>Practical focus:</b> I build robust full-stack apps with emphasis on performance, reliability, and developer experience.<br><br>
-    📫 <b>Let’s collaborate:</b> Open to team projects, freelance work, and learning opportunities.
-
-  🌐 <b>Portfolio:</b>  
+    📫 <b>Let’s collaborate:</b> Open to team projects, freelance work, and learning opportunities.<br><br>
+    🌐 <b>Portfolio:</b>  
     <a href="https://madyelshshaht.github.io/Mohamed-Elshahat/" target="_blank" style="color:#00C9FF; text-decoration:none; font-weight:600;">
       madyelshshaht.github.io/Mohamed-Elshahat
     </a>
-    
   </p>
 </div>
+
 
  
 ---
