@@ -2,14 +2,8 @@
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00C9FF&section=header"/>
 </div>
 
-
-<div>
 <h3 align="center">Hi 👋 I'm Mohamed Elsha7at</h3>
-</div>
 
-<div align="center" style="font-size: 2em; font-weight: bold; margin: 0; padding: 0; line-height: 1.2;">
-  Hi 👋 I'm Mohamed Elsha7at
-</div>
 
 <div align="center" style="border: none; text-decoration: none; margin-bottom: 0;">
   <img 
