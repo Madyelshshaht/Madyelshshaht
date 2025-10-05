@@ -1,7 +1,7 @@
 <div align="center">
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00C9FF&section=header"/>
 </div>
-<h1 align="center">Hi 👋 My name is Mohamed Elsha7at</h1>
+<h1 align="center">Hi 👋 I'm Mohamed Elsha7at</h1>
 <div align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+Full+Stack+Developer;React+%2B+.Net;Always+Grow+up+MySkills+%F0%9F%9A%80" 
