@@ -10,12 +10,15 @@ on:
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      NODE_OPTIONS: "--max-old-space-size=4096" # Increase Node.js memory limit
+
     permissions:
       contents: write
       pages: write
       id-token: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
       - name: Checkout repo
