@@ -28,9 +28,11 @@
  
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madyelshshaht&layout=compact&theme=dracula&langs_count=8" height="160px" style="width:100%; height:160px;" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madyelshshaht/Madyelshshaht/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madyelshshaht/Madyelshshaht/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Madyelshshaht/Madyelshshaht/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -79,6 +81,13 @@
 
 ---
 
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madyelshshaht&layout=compact&theme=dracula&langs_count=8" height="160px" style="width:100%; height:160px;" />
+</div>
+---
+
+
 ### 🌐 Connect with Me
 
 <div align="left">
@@ -89,15 +98,7 @@
   <a href="https://www.linkedin.com/in/mohamed-elshahawi-2a736134b" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo" /></a>
 </div>
 
----
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madyelshshaht/Madyelshshaht/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madyelshshaht/Madyelshshaht/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Madyelshshaht/Madyelshshaht/output/pacman-contribution-graph.svg">
-</picture>
-
----
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Madyelshshaht.Madyelshshaht&" />
