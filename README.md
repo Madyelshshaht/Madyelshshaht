@@ -2,7 +2,7 @@
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00C9FF&section=header"/>
 </div>
 
-<h3 align="center">Hi 👋 I'm Mohamed Elsha7at</h3>
+<h1 align="left">Hi 👋 I'm Mohamed Elsha7at</h3>
 
 <div align="center" style="border: none; text-decoration: none; margin-bottom: 0;">
   <img 
@@ -11,7 +11,7 @@
   />
 </div>
 
----
+
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -32,7 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madyelshshaht&layout=compact&theme=dracula&langs_count=8" height="160px" style="width:100%; height:160px;" />
 </div>
 
----
 
 
 ###
