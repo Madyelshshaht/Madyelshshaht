@@ -3,7 +3,7 @@
 </div>
 <h2 align="center" style="font-family: 'Fira Code', monospace; font-weight: 700; border: none; text-decoration: none; margin-bottom: 0;">
   Hi 👋 I'm Mohamed Elsha7at</h2>
-<div align="center">
+<div align="center" border: none; text-decoration: none; margin-bottom: 0;">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%2B+.Net;Always+Grow+up+MySkills+%F0%9F%9A%80" 
     alt="Typing SVG" 
