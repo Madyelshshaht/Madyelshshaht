@@ -22,8 +22,8 @@
     ⚙️ <b>Logical APIs:</b> I design clear, well-documented, and testable REST/GraphQL APIs that solve real problems.<br><br>
     🔧 <b>Practical focus:</b> I build robust full-stack apps with emphasis on performance, reliability, and developer experience.<br><br>
     📫 <b>Let’s collaborate:</b> Open to team projects, freelance work, and learning opportunities.<br><br>
-    <a href="https://madyelshshaht.github.io/Mohamed-Elshahat/" target="_blank" style="color:#00C9FF; text-decoration:none; font-weight:600;">
-      🌐 <b>Portfolio</b>
+    🌐 <a href="https://madyelshshaht.github.io/Mohamed-Elshahat/" target="_blank" style="color:#00C9FF; text-decoration:none; font-weight:600;">
+       <b>Portfolio</b>
     </a>
   </p>
 </div>
