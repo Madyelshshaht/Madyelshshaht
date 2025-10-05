@@ -74,13 +74,9 @@
 
 ### 🌐 Connect with Me
 
-<div align="left" style="display: flex; gap: 10px; align-items: center;">
-  <a href="mailto:mahamed.elshahat55@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.facebook.com/share/179JYan7rH/?mibextid=wwXIfr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="35" alt="facebook logo" />
-  </a>
+<div align="left">
+  <a href="mailto:mahamed.elshahat55@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo" /></a>
+  <a href="https://www.facebook.com/share/179JYan7rH/?mibextid=wwXIfr" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="35" alt="facebook logo" /></a>
   <a href="https://www.instagram.com/madyelshahat?igsh=dXV1MGNjcm9seXVl&utm_source=qr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo" />
   </a>
@@ -102,6 +98,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madyelshshaht/Madyelshshaht/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Madyelshshaht/Madyelshshaht/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Madyelshshaht.Madyelshshaht&"  />
+</div>
+
+###
 
 
 <div align="center">
