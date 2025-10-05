@@ -23,8 +23,7 @@
     🔧 <b>Practical focus:</b> I build robust full-stack apps with emphasis on performance, reliability, and developer experience.<br><br>
     📫 <b>Let’s collaborate:</b> Open to team projects, freelance work, and learning opportunities.
 
-    🌐 <b>Portfolio:</b>  
-  
+  🌐 <b>Portfolio:</b>  
     <a href="https://madyelshshaht.github.io/Mohamed-Elshahat/" target="_blank" style="color:#00C9FF; text-decoration:none; font-weight:600;">
       madyelshshaht.github.io/Mohamed-Elshahat
     </a>
