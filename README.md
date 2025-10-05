@@ -6,11 +6,8 @@
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%2B+.Net;Always+Grow+up+MySkills+%F0%9F%9A%80" 
     alt="Typing SVG" 
-    style="block"
   />
 </div>
-
-
 
 ---
 
@@ -19,6 +16,14 @@
 </div>
 
 ---
+
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 
 ### 🛠️ Tech Stack
 <div align="left">
