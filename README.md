@@ -2,11 +2,11 @@
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00C9FF&section=header"/>
 </div>
 
-<h1 align="left">Hi 👋 I'm Mohamed Elsha7at</h1>
-
 <div align="left">
+  <h1>Hi 👋 I'm Mohamed Elsha7at</h1>
+
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%2B+.Net;" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=false&vCenter=true&width=700&lines=Full+Stack+Developer;React+%2B+.Net;" 
     alt="Typing SVG" 
   />
 </div>
