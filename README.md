@@ -7,14 +7,13 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madyelshshaht&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Mohamed+Elsha7at;Full+Stack+Developer;Frontend+Engineer;Always+Learning+New+Techs+🚀" alt="Typing SVG" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madyelshshaht&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Madyelshshaht&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madyelshshaht&layout=compact&theme=dracula&langs_count=8" height="160px"/>
 </div>
 
