@@ -12,13 +12,13 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Madyelshshaht&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Madyelshahat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     height="150"
     alt="GitHub stats"
   />
   &nbsp;&nbsp;
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Madyelshshaht&layout=compact&langs_count=6&theme=dracula"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Madyelshahat&layout=compact&langs_count=6&theme=dracula"
     height="150"
     alt="Top languages"
   />
