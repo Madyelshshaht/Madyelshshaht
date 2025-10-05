@@ -11,10 +11,6 @@
   />
 </div>
 
-
-
-<h2 align="center">🚀 About Me</h2>
-
 <div align="center">
   <img align="right" src="https://media1.tenor.com/m/K2UGdwSsu7IAAAAC/developer.gif" height="160" alt="developer gif" style="margin-left: 10px;" />
   
