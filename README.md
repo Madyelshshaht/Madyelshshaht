@@ -37,7 +37,6 @@
 
 <br/>
 ---
-
 ### 🛠️ Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
@@ -82,13 +81,11 @@
 </div>
 
 ---
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madyelshshaht&layout=compact&theme=dracula&langs_count=8" height="160px" style="width:100%; height:160px;" />
 </div>
+
 ---
-
-
 ### 🌐 Connect with Me
 
 <div align="left">
