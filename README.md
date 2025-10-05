@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi 👋 I'm Mohamed Elsha7at</h3>
 
-<div align="center" style="border: none; text-decoration: none; margin-bottom: 0;">
+<div align="left">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%2B+.Net;" 
     alt="Typing SVG" 
