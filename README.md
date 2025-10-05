@@ -24,7 +24,7 @@
     📫 <b>Let’s collaborate:</b> Open to team projects, freelance work, and learning opportunities.<br><br>
     🌐 <b>Portfolio:</b>  
     <a href="https://madyelshshaht.github.io/Mohamed-Elshahat/" target="_blank" style="color:#00C9FF; text-decoration:none; font-weight:600;">
-      madyelshshaht.github.io/Mohamed-Elshahat
+      <b>Portfolio:</b>
     </a>
   </p>
 </div>
