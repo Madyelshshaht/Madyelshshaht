@@ -27,6 +27,7 @@
 
  
 ---
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madyelshshaht/Madyelshshaht/output/pacman-contribution-graph-dark.svg">
@@ -81,7 +82,6 @@
 
 ---
 
----
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madyelshshaht&layout=compact&theme=dracula&langs_count=8" height="160px" style="width:100%; height:160px;" />
 </div>
